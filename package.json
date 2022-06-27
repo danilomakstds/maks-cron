@@ -8,6 +8,6 @@
   "sha256xz": "99561513c1e3f84125e1ee0deefaa8bf2911443fbd6ab051c7d51ff76bc57037",
   "node": {
     "compatible": ">=10.0.0",
-    "recommended": "14.19.0"
+    "recommended": "16.14.2"
   }
 }
