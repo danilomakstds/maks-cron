@@ -1,0 +1,13 @@
+{
+  "version": "7.60.2",
+  "channel": "stable",
+  "baseDir": "heroku",
+  "gz": "https://cli-assets.heroku.com/heroku-v7.60.2/heroku-v7.60.2-win32-x64.tar.gz",
+  "xz": "https://cli-assets.heroku.com/heroku-v7.60.2/heroku-v7.60.2-win32-x64.tar.xz",
+  "sha256gz": "45b835dc7f2bd959a4b5715d4062f5b36aea8e097376a958b9bc4a2d1eb8c494",
+  "sha256xz": "99561513c1e3f84125e1ee0deefaa8bf2911443fbd6ab051c7d51ff76bc57037",
+  "node": {
+    "compatible": ">=10.0.0",
+    "recommended": "14.19.0"
+  }
+}
