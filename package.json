@@ -10,5 +10,8 @@
     "compatible": ">=10.0.0",
     "recommended": "16.14.2"
   },
-  "npm": "8.5.0"
+  "main": "main.js",
+  "scripts": {
+    "start": "node server"
+  }
 }
