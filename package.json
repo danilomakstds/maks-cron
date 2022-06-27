@@ -13,5 +13,8 @@
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
+  },
+  "devDependencies": {
+    "express": "^4.13.3"
   }
 }
